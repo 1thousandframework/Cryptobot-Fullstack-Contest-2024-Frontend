@@ -96,9 +96,9 @@ background.value = 'var(--pattern-url), linear-gradient(' + [rgb2rgbaString(rgbC
     background-size: 20px;
     background-repeat: no-repeat;
     background-position: 12px center;
-    &._usdt {background-image: var(--icon_usdt)}
-    &._ton {background-image: var(--icon_ton)}
-    &._eth {background-image: var(--icon_eth)}
+    &.usdt {background-image: var(--icon_usdt)}
+    &.ton {background-image: var(--icon_ton)}
+    &.eth {background-image: var(--icon_eth)}
     &._disabled {
       backdrop-filter: blur(3px);
       background-color: rgba(142, 142, 147, 0.1);
