@@ -1,0 +1,32 @@
+.p16 {
+  padding: 16px;
+}
+.ph16 {
+  padding-left: 16px;
+  padding-right: 16px;
+}
+.pb16 {
+  padding-bottom: 16px;
+}
+.pv8 {
+  padding-top: 8px;
+  padding-bottom: 8px;
+}
+.m16 {
+  margin: 16px;
+}
+.mt16 {
+  margin-top: 16px;
+}
+.mr4 {
+  margin-right: 4px;
+}
+.ml4 {
+  margin-left: 4px;
+}
+.ml8 {
+  margin-left: 8px;
+}
+.mr8 {
+  margin-right: 8px;
+}
